@@ -1,0 +1,10 @@
+C:\Users\Cadence\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\KWedge.exe.config
+C:\Users\Cadence\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\KWedge.exe
+C:\Users\Cadence\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\KWedge.pdb
+C:\Users\Cadence\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\KWedge.Form1.resources
+C:\Users\Cadence\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\KWedge.Properties.Resources.resources
+C:\Users\Cadence\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\KWedge.csproj.GenerateResource.cache
+C:\Users\Cadence\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\KWedge.csproj.CoreCompileInputs.cache
+C:\Users\Cadence\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\KWedge.exe
+C:\Users\Cadence\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\KWedge.pdb
+C:\Users\Cadence\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\KWedge.csprojAssemblyReference.cache
